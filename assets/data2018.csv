@@ -1,0 +1,63 @@
+year,university,school,degree,gross_monthly_median,IGP,Course Places
+2018,Nanyang Technological University,College of Business (Nanyang Business School),Accountancy,3000,ABCB,507
+2018,Nanyang Technological University,College of Business (Nanyang Business School),Business,3500,ABCC,837
+2018,Nanyang Technological University,College of Engineering,Aerospace Engineering,3800,AAAC,124
+2018,Nanyang Technological University,College of Engineering,Bioengineering,3500,BCCB,102
+2018,Nanyang Technological University,College of Engineering,Chemical & Biomolecular Engineering,3600,AACC,174
+2018,Nanyang Technological University,College of Engineering,Civil Engineering,3500,CCCD,120
+2018,Nanyang Technological University,College of Engineering,Computer Engineering,3775,BBCB,99
+2018,Nanyang Technological University,College of Engineering,Computer Science,4000,AACC,424
+2018,Nanyang Technological University,College of Engineering,Electrical & Electronic Engineering,3600,BCCD,608
+2018,Nanyang Technological University,College of Engineering,Environmental Engineering,3400,BCCD,35
+2018,Nanyang Technological University,College of Engineering,Information Engineering & Media,3750,BBCB,97
+2018,Nanyang Technological University,College of Engineering,Maritime Studies,3350,BCCC,86
+2018,Nanyang Technological University,College of Engineering,Materials Engineering,3500,BCCD,211
+2018,Nanyang Technological University,College of Engineering,Mechanical Engineering,3500,BCCD,540
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences","Art, Design & Media",3000,AAAA,145
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Chinese,3500,BBCC,73
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Communication Studies,3000,AAAB,168
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Economics,3536,BBCB,163
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",English,3000,BBCC,90
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",History,3500,BBCB,49
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Linguistics & Multilingual Studies,3200,BCCB,82
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Philosophy,3000,BCCC,59
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Psychology,3370,ABCC,134
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Public Policy and Global Affairs,3350,ABCC,65
+2018,Nanyang Technological University,"College of Humanities, Arts & Social Sciences",Sociology,3220,BBCC,139
+2018,Nanyang Technological University,College of Sciences,Biological Sciences,3250,AABB,263
+2018,Nanyang Technological University,College of Sciences,Chemistry & Biological Chemistry,3200,BBCB,231
+2018,Nanyang Technological University,College of Sciences,Environmental Earth Systems Science ^,3440,AAAB,34
+2018,Nanyang Technological University,College of Sciences,Mathematical Sciences,3650,BCCB,152
+2018,Nanyang Technological University,College of Sciences,Physics & Applied Physics,3400,BCCC,80
+2018,Nanyang Technological University,National Institute of Education (NIE),Arts (With Education),3800,ABCB,28
+2018,Nanyang Technological University,National Institute of Education (NIE),Science (With Education),3800,AABB,29
+2018,Nanyang Technological University,Sport Science and Management,Sport Science and Management,3300,BCCB,74
+2018,National University of Singapore,Faculty of Arts & Social Sciences,Bachelor of Social Sciences,3400,BBBC,1510
+2018,National University of Singapore,Faculty of Dentistry,Bachelor of Dental Surgery,4050,AAAA,60
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Biomedical Engineering),3389,BBCB,161
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Chemical Engineering),4000,BBCB,253
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Civil Engineering),3500,CCDB,133
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Electrical Engineering),3700,BCCC,207
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Environmental Engineering),3400,BCCB,47
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Industrial and Systems Engineering),3895,BCCB,65
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Materials Science and Engineering),3600,CCCC,79
+2018,National University of Singapore,Faculty of Engineering,Bachelor of Engineering (Mechanical Engineering),3700,BCCB,346
+2018,National University of Singapore,Faculty of Law,Bachelor of Laws #,5500,AAAA,223
+2018,National University of Singapore,Faculty of Science,Bachelor of Science (Hons),3400,AAAC,571
+2018,National University of Singapore,Faculty of Science,Bachelor of Science (Pharmacy) #,3650,AAAA,156
+2018,National University of Singapore,NUS Business School,Bachelor of Business Administration (Hons),3895,AABC,765
+2018,National University of Singapore,NUS Business School,Bachelor of Business Administration (Accountancy) (Hons),3200,AABC,220
+2018,National University of Singapore,School of Computing,Bachelor of Computing (Computer Science),4320,AAAA,596
+2018,National University of Singapore,School of Computing,Bachelor of Computing (Information Systems),4458,AAAA,124
+2018,National University of Singapore,School of Computing,Bachelor of Science (Business Analytics),4500,AAAA,241
+2018,National University of Singapore,School of Design & Environment,Bachelor of Arts (Industrial Design),3250,ABBC,48
+2018,National University of Singapore,School of Design & Environment,Bachelor of Science (Project and Facilities Management),3060,BCCB,167
+2018,National University of Singapore,School of Design & Environment,Bachelor of Science (Real Estate),3300,BCCB,165
+2018,National University of Singapore,YLL School of Medicine,Bachelor of Science (Nursing) (Hons),3550,CCDB,311
+2018,National University of Singapore,Multidisciplinary Programmes,Bachelor of Engineering (Computer Engineering),3975,AABC,181
+2018,Singapore Management University,School of Accountancy (4-year programme) *,Accountancy (Cum Laude and above),3550,ABBC,349
+2018,Singapore Management University,School of Business (4-year programme) *,Business Management (Cum Laude and above),4000,ABBC,840
+2018,Singapore Management University,School of Economics (4-year programme) *,Economics (Cum Laude and above),4000,BBCA,264
+2018,Singapore Management University,School of Information Systems (4-year programme) *,Information Systems (Cum Laude and above),4685,BBCB,448
+2018,Singapore Management University,School of Social Sciences (4-year programme) *,Social Sciences (Cum Laude and above),3600,BBCB,244
+2018,Singapore Management University,School of Law (4-year programme) *,Law (Cum Laude and above) #,5513,AAAA,174
